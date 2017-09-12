@@ -1,0 +1,2 @@
+MainPackage=C:\Work\status\mingw-windows10-uwp\mingw-windows10-uwp\InvokeMinGWDllUWP\InvokeMinGWDllUWP\bin\x64\Release\InvokeMinGWDllUWP_1.0.0.0_x64.appx
+SymbolPackage=C:\Work\status\mingw-windows10-uwp\mingw-windows10-uwp\InvokeMinGWDllUWP\InvokeMinGWDllUWP\AppPackages\InvokeMinGWDllUWP_1.0.0.0_Test\InvokeMinGWDllUWP_1.0.0.0_x64.appxsym
